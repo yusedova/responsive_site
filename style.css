@@ -95,7 +95,7 @@ p {
 .wow{
     width: 288px;
     padding-top: 95px;
-    background: url('/img/icons8-time-machine-96\ 1.png') no-repeat top center;
+    background: url('icons8-time-machine-96\ 1.png') no-repeat top center;
         
 }
 .wow-title{
@@ -108,10 +108,10 @@ p {
     
 }
 .icon2 {
-    background: url('/img/icons8-beach-96\ 1.png') no-repeat top center;
+    background: url('icons8-beach-96\ 1.png') no-repeat top center;
 }
 .icon3 {
-    background: url('/img/icons8-launch-96\ 1.png') no-repeat top center;
+    background: url('icons8-launch-96\ 1.png') no-repeat top center;
 }
 
 .mail {
